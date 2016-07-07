@@ -1,0 +1,19 @@
+{
+  "name": "ngdocs-template",
+  "version": "0.0.1",
+  "description": "This template is intended to be utilized with angular-jsdoc.",
+  "main": "ngdocs-template/publish.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/satsukitv/ngdocs-template.git"
+  },
+  "author": "Cecelia Wren",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/satsukitv/ngdocs-template/issues"
+  },
+  "homepage": "https://github.com/satsukitv/ngdocs-template#readme"
+}
